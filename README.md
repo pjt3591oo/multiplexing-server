@@ -1,9 +1,5 @@
 * dependency library install
 
-```sh
-$ make install
-```
-
 * build
 
 ```sh
